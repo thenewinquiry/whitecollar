@@ -10,4 +10,4 @@ First install the requirements:
 
 Then, to generate a JSON file of predictions per geohash, run:
 
-    python train.py
+    python predict.py
